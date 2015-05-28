@@ -10,3 +10,5 @@ vanilla.wilhelm.js requires vanilla javascript (it's free unlike jQuery and @jen
 Put the "wilhelm.mp3" in your root, put the js file wherever you put your js! Enjoy! 
 
 Inspired by this tweet https://twitter.com/jennschiffer/status/405674325887680512 from @jennschiffer who is literally a monster.
+
+<a href="http://stevebarman.com/wilhelm-js/">Try out the demo here</a>
